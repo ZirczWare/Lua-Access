@@ -1,1 +1,2 @@
-{"OfficialZapy", "xZombiie"}
+OfficialZapy
+xZombiie
